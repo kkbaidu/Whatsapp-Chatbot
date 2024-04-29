@@ -1,1 +1,1 @@
-Chatbot
+Whatsapp AI Chatbot
