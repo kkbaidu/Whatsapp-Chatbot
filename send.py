@@ -9,7 +9,7 @@ auth_token = os.getenv('TWILIO_AUTH_TOKEN')
 
 client = Client(account_sid, auth_token)
 
-token = '0d0aa620b5fe4efdfcb8ebfc9e06512a'
+token = 'AIzaSyDLsvTTyIgycm2YX1DaD4arlV1mgHjPMAw'
 
 from_whatsapp_number = 'whatsapp:+14155238886'
 to_whatsapp_number = 'whatsapp:' + os.environ['MY_PHONE_NUMBER']
